@@ -123,7 +123,7 @@ export default function LoanApplicationForm() {
       setErrors(validationErrors);
       setSubmitMessage({
         type: "error",
-        text: "Please fix all errors before submitting.",
+        text: "Please fill all required Details before submitting.",
       });
       return;
     }

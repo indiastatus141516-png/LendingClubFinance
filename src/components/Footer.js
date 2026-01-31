@@ -40,7 +40,7 @@ const Footer = () => {
               {[
                 { name: "Personal Loans", path: "/personal-loans" },
                 { name: "Auto Refinance", path: "/auto-refinance" },
-                { name: "High Yield Savings", path: "/high-yield-savings" },
+                { name: "High Yield Savings", path: "/savings" },
                 { name: "Checking", path: "/checking" },
                 { name: "Credit Cards", path: "/credit-cards" },
               ].map((item) => (
